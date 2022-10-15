@@ -57,4 +57,4 @@ Carthage/Checkouts
 
 # SPM
 /Packages
-.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+/.swiftpm
